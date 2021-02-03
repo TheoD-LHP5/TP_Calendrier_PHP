@@ -1,0 +1,40 @@
+body{
+    background-color: #324758;
+    width: 100%;
+}
+
+.row{
+    margin-right: 0;
+}
+
+.titleCalendar{
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    color : whitesmoke;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5%;
+}
+
+th{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
+
+input{
+    border: none 1px;
+    font-weight: bold;
+    background: whitesmoke;
+
+}
+
+input:hover{
+    color: teal;
+}
